@@ -1,0 +1,24 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Muhammedminhaj798/nodePractice#readme",
+  "bugs": {
+    "url": "https://github.com/Muhammedminhaj798/nodePractice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammedminhaj798/nodePractice.git"
+  },
+  "license": "ISC",
+  "author": "minhaj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cli-color": "^2.0.4",
+    "cors": "^2.8.5"
+  }
+}
